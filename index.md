@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+# NUMAP
 
-You can use the [editor on GitHub](https://github.com/gnewmark/numap/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We help cities and community groups leverage spatial data to advance their mission.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Cities
+
+### Community Organizations
+We helped relaunch a website for xxxx in the San Fernando Valley.
 
 ```markdown
 Syntax highlighted code block
